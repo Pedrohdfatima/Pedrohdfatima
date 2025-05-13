@@ -1,11 +1,16 @@
+#  Olá, meu nome é Pedro Henrique!
 
-# 💜 Olá, meu nome é {seu nome}!
+Sou estundante de Informatica para internet, com interesse em me profissionalizar na parte de BackEnd.
+Atualmente estou estudando Java, porém já tenho conhecimento avançado em HTML, CSS, JavaScript, PHP e SQL
+Também tenho conhecimentos em REACT e NodJS
 
-Faça uma breve apresentação sobre você e a sua stack.
+🔭 Atualmente estou trabalhando em um projeto de uma oficina, em que estou desenvolvendo o site para eles.
+Também já fiz alguns projetos para 
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+💬 Estou disponivel nestes meios:
+    Linkedin: linkedin.com/in/pedro-henrique-duarte-de-fátima-066962234
+    Email: pedrohdfatima49@gmail.com
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ---
 
@@ -27,4 +32,4 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrohdfatima)
