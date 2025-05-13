@@ -5,10 +5,12 @@ Atualmente estou estudando Java, porém já tenho conhecimento avançado em HTML
 Também tenho conhecimentos em REACT e NodJS
 
 🔭 Atualmente estou trabalhando em um projeto de uma oficina, em que estou desenvolvendo o site para eles.
-Também já fiz alguns projetos para 
+Também já fiz alguns projetos para aprendizado na ETEC
 
 💬 Estou disponivel nestes meios:
+
     Linkedin: linkedin.com/in/pedro-henrique-duarte-de-fátima-066962234
+
     Email: pedrohdfatima49@gmail.com
 
 
