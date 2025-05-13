@@ -28,7 +28,7 @@
   
 | **Oficina Mecânica**         | **Projetos ETEC**             |
 |------------------------------|-------------------------------|
-| [![Project1](https://img.shields.io/badge/-Website-6C63FF?style=for-the-badge)](https://demo.com) | [![Repos](https://img.shields.io/badge/-Repositórios-181717?style=for-the-badge&logo=github)](https://github.com/Pedrohdfatima?tab=repositories) |
+| [![Project1](https://img.shields.io/badge/-Website-6C63FF?style=for-the-badge)]() | [![Repos](https://img.shields.io/badge/-Repositórios-181717?style=for-the-badge&logo=github)](https://github.com/Pedrohdfatima?tab=repositories) |
 | Desenvolvimento completo do website para oficina | Sistemas desenvolvidos durante o curso técnico |
 | React • Node.js • MySQL       | PHP • Bootstrap • MySQL       |
 
