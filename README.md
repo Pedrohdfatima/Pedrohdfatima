@@ -1,50 +1,67 @@
-##  Olá, meu nome é Pedro Henrique!
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pedro%20Henrique&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor%20Backend&descSize=24&descAlignY=55)
 
- Sou estundante de Informatica para internet, com interesse em me profissionalizar na parte de BackEnd.
- Atualmente estou estudando Java, porém já tenho conhecimento avançado em HTML, CSS, JavaScript, PHP e SQL
- Também tenho conhecimentos em REACT e NodJS
-
-## 📚 Aprendendo Agora  
-
-- **Java**: Estudando Introdução ao Java no Curso em Video.  
-- **Redes**: Certificação Curso Em Video em andamento.  
-
-🔭 Atualmente estou trabalhando em um projeto de uma oficina, desenvolvendo o site para eles.
-Já realizei outros projetos para aprendizado na ETEC (como parte do curso).
-
-## 💬 Estou disponivel nestes meios:
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pedro-henrique-duarte-de-fátima-066962234) 
-
-   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohdfatima49@gmail.com)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+em+Formação;Bem+Vindo!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
+### 🛠️ Stack Tecnológica
 
-## 🚀 Minhas Skills  
+#### **Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Frontend:**  
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-
-**Backend & Databases:**  
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
+### 🚀 Projetos Destacados
 
-## ⭐ GitHub Stats  
+<div align="center">
+  
+| **Oficina Mecânica**         | **Projetos ETEC**             |
+|------------------------------|-------------------------------|
+| [![Project1](https://img.shields.io/badge/-Website-6C63FF?style=for-the-badge)](https://demo.com) | [![Repos](https://img.shields.io/badge/-Repositórios-181717?style=for-the-badge&logo=github)](https://github.com/Pedrohdfatima?tab=repositories) |
+| Desenvolvimento completo do website para oficina | Sistemas desenvolvidos durante o curso técnico |
+| React • Node.js • MySQL       | PHP • Bootstrap • MySQL       |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohdfatima&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrohdfatima&show_icons=true&theme=dark)  
-![Streak](https://streak-stats.demolab.com/?user=Pedrohdfatima&theme=dark)
+</div>
 
 ---
-📈 **Transformando linhas de código em soluções eficientes!**
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pedrohdfatima&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrohdfatima&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohdfatima&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-duarte-de-fátima-066962234)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohdfatima49@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pedrohdfatima)
+
+</div>
+
+---
+
+![Snake animation](https://github.com/Pedrohdfatima/Pedrohdfatima/blob/output/github-contribution-grid-snake.svg)
+
+</div>
